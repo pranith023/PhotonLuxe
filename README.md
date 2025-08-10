@@ -10,7 +10,7 @@ Image Gallery is a premium web application that showcases **high-quality images*
 ✅ **Social Sharing** – Share images directly from the gallery  
 
 ## 🚀 Live Demo
-🔗 [View Live Website](https://gallery-nexus.netlify.app/)
+🔗 [View Live Website](https://photonluxe.netlify.app/)
 
 
 ## 🎨 Screenshots  
@@ -27,7 +27,7 @@ Image Gallery is a premium web application that showcases **high-quality images*
 ## 📥 Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/pranith023
+   git clone https://github.com/pranith023/PhotonLuxe.git
    ```
 2. **Open `index.html` in your browser**  
 3. Enjoy the gallery! 🎉
